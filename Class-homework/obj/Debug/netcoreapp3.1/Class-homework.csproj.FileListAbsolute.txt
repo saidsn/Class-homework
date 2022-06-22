@@ -1,0 +1,14 @@
+C:\Users\OMEN\OneDrive\İş masası\HOMEWORK\Class-C#\Class-homework\Class-homework\bin\Debug\netcoreapp3.1\Class-homework.exe
+C:\Users\OMEN\OneDrive\İş masası\HOMEWORK\Class-C#\Class-homework\Class-homework\bin\Debug\netcoreapp3.1\Class-homework.deps.json
+C:\Users\OMEN\OneDrive\İş masası\HOMEWORK\Class-C#\Class-homework\Class-homework\bin\Debug\netcoreapp3.1\Class-homework.runtimeconfig.json
+C:\Users\OMEN\OneDrive\İş masası\HOMEWORK\Class-C#\Class-homework\Class-homework\bin\Debug\netcoreapp3.1\Class-homework.runtimeconfig.dev.json
+C:\Users\OMEN\OneDrive\İş masası\HOMEWORK\Class-C#\Class-homework\Class-homework\bin\Debug\netcoreapp3.1\Class-homework.dll
+C:\Users\OMEN\OneDrive\İş masası\HOMEWORK\Class-C#\Class-homework\Class-homework\bin\Debug\netcoreapp3.1\Class-homework.pdb
+C:\Users\OMEN\OneDrive\İş masası\HOMEWORK\Class-C#\Class-homework\Class-homework\obj\Debug\netcoreapp3.1\Class-homework.csproj.AssemblyReference.cache
+C:\Users\OMEN\OneDrive\İş masası\HOMEWORK\Class-C#\Class-homework\Class-homework\obj\Debug\netcoreapp3.1\Class-homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OMEN\OneDrive\İş masası\HOMEWORK\Class-C#\Class-homework\Class-homework\obj\Debug\netcoreapp3.1\Class-homework.AssemblyInfoInputs.cache
+C:\Users\OMEN\OneDrive\İş masası\HOMEWORK\Class-C#\Class-homework\Class-homework\obj\Debug\netcoreapp3.1\Class-homework.AssemblyInfo.cs
+C:\Users\OMEN\OneDrive\İş masası\HOMEWORK\Class-C#\Class-homework\Class-homework\obj\Debug\netcoreapp3.1\Class-homework.csproj.CoreCompileInputs.cache
+C:\Users\OMEN\OneDrive\İş masası\HOMEWORK\Class-C#\Class-homework\Class-homework\obj\Debug\netcoreapp3.1\Class-homework.dll
+C:\Users\OMEN\OneDrive\İş masası\HOMEWORK\Class-C#\Class-homework\Class-homework\obj\Debug\netcoreapp3.1\Class-homework.pdb
+C:\Users\OMEN\OneDrive\İş masası\HOMEWORK\Class-C#\Class-homework\Class-homework\obj\Debug\netcoreapp3.1\Class-homework.genruntimeconfig.cache
